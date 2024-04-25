@@ -1,0 +1,1 @@
+echo '<script>alert("Register Berhasil"); location.href="login.php"</script>';
